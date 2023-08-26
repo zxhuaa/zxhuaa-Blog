@@ -4,8 +4,8 @@
 
 # Site
 title: zxhuaa
-subtitle: ''
-description: 这是一段描述
+subtitle: 记录学习以及工作中遇到的问题
+description: 逝者如斯夫，不舍昼夜
 keywords:
 author: zxhuaa
 language: zh-CN
@@ -13,7 +13,8 @@ timezone: Asia/Shenzhen
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://zxhuaa.github.io
+root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -97,7 +98,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: next
+theme: landspace
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
