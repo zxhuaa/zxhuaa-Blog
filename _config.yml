@@ -98,11 +98,11 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landspace
+theme: hexo-theme-pteris
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repository: git@github.com:zxhuaa/zxhuaa.github.io.git
+  repository: https://github.com/zxhuaa/zxhuaa.github.io.git
   branch: main
